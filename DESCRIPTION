@@ -1,0 +1,13 @@
+Package: ranimal
+Title: Dolphin?
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Adam",
+           family = "Rydekek",
+           role = c("aut", "cre"),
+           email = "adam.rydelek@gmail.com")
+Description: Did you ever wonder what is your spirit animal? We provide the answer.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
